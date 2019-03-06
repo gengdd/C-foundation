@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/AI/c++base/main.cpp
+iostream
+-
+cmath
+-
+string
+-
+vector
+-
+cstdio
+-
+cstring
+-
+algorithm
+-
+cassert
+-
+iterator
+-
+deque
+-
+list
+-
+map
+-
+utility
+-
+functional
+-
+iomanip
+-
+
